@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b5793c2-5ba8-4418-9fa5-afc9f9140660" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/shiftly/version.rb" afterPath="$PROJECT_DIR$/lib/shiftly/version.rb" />
     </list>
     <ignored path="shiftly.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -18,7 +17,7 @@
     <file path="/integer_ext.rb" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419717716673" ignored="false" />
     <file path="/fixnum_ext.rb" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419717650765" ignored="false" />
     <file path="/fixnum_ext_spec.rb" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419719748685" ignored="false" />
-    <file path="/README.md" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419721868886" ignored="false" />
+    <file path="/README.md" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419722095714" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="74" selection-start="252" selection-end="252" vertical-scroll-proportion="0.40996784">
+            <state line="25" column="3" selection-start="382" selection-end="382" vertical-scroll-proportion="0.6555944">
               <folding />
             </state>
           </provider>
@@ -520,7 +519,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="74" selection-start="252" selection-end="252" vertical-scroll-proportion="0.40996784">
+        <state line="25" column="3" selection-start="382" selection-end="382" vertical-scroll-proportion="0.6555944">
           <folding />
         </state>
       </provider>

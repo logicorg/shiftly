@@ -12,20 +12,20 @@ There are available extensions for:
 
 ```ruby
 Time.now.to_factory_date
+#=> returns yesterday when it is before 6am and today otherwise
 ```
-returns yesterday when it is before 6am and today otherwise
 
 ```ruby
 Time.now.shift
+#=> returns shift number for datetime
 ```
-returns shift number for datetime
 
 ```ruby
 Time.now.shift_beg
+#=> returns shift beginning datetime
 ```
-returns shift beginning datetime for datetime
 
 ```ruby
 Time.now.shift_end
+#=> returns shift end datetime
 ```
-returns shift end datetime for datetime
