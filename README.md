@@ -1,6 +1,7 @@
 ## Shiftly
 
 [![Gem Version](https://badge.fury.io/rb/shiftly.svg)](http://badge.fury.io/rb/shiftly)
+[![Build Status](https://travis-ci.org/logicorg/shiftly.svg?branch=master)](https://travis-ci.org/logicorg/shiftly)
 [![Code Climate](https://codeclimate.com/github/logicorg/shiftly/badges/gpa.svg)](https://codeclimate.com/github/logicorg/shiftly)
 
 Factory shift methods collection by [RubyLogic, PL](http://rubylogic.eu)
