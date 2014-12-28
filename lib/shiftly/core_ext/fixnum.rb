@@ -1,4 +1,4 @@
-Fixnum.class_eval do
+class Fixnum
 
   def next_shift
     self == 3 ? 1 : self + 1

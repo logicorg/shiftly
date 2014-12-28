@@ -1,5 +1,4 @@
-require 'shiftly/time_ext'
-require 'shiftly/fixnum_ext'
+require 'business_time'
 
-module Shiftly
-end
+require 'shiftly/core_ext/time'
+require 'shiftly/core_ext/fixnum'

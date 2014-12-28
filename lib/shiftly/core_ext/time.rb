@@ -1,7 +1,4 @@
-require 'business_time'
-
-Time.class_eval do
-
+class Time
   def shift
     if self.hour < 6
       3
