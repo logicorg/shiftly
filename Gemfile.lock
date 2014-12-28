@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    shiftly (0.1.1)
+    shiftly (0.1.2)
       business_time
 
 GEM
