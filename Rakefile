@@ -14,9 +14,8 @@ RDoc::Task.new(:rdoc) do |rdoc|
   rdoc.rdoc_files.include('lib/**/*.rb')
 end
 
-
+task(:default).clear
 task :default => :spec
-
 
 Bundler::GemHelper.install_tasks
 
