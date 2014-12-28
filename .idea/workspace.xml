@@ -6,7 +6,7 @@
     </list>
     <ignored path="shiftly.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419713785026" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419753883871" ignored="false" />
     <file path="/shiftly.gemspec" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419714151543" ignored="false" />
     <file path="/time_ext_text.rb" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419714509085" ignored="false" />
     <file path="/time_ext.rb" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419718532372" ignored="false" />
@@ -40,25 +40,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="17" selection-start="152" selection-end="152" vertical-scroll-proportion="0.15734266">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fixnum_ext.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/shiftly/fixnum_ext.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="5" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="time_ext.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/shiftly/time_ext.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="46" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
+            <state line="3" column="101" selection-start="201" selection-end="201" vertical-scroll-proportion="0.073891625">
               <folding />
             </state>
           </provider>
@@ -220,6 +202,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sites/cooper02" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -528,7 +511,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="152" selection-end="152" vertical-scroll-proportion="0.15734266">
+        <state line="3" column="101" selection-start="201" selection-end="201" vertical-scroll-proportion="0.073891625">
           <folding />
         </state>
       </provider>
