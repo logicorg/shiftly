@@ -3,7 +3,7 @@ module Shiftly
     class ConfigGenerator < Rails::Generators::Base # :nodoc:
 
       def self.gem_root
-        File.expand_path("../../..", __FILE__)
+        File.expand_path("../../../..", __FILE__)
       end
 
       def self.source_root
