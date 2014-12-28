@@ -49,3 +49,6 @@ Time.now.shift_end
 1.prev_shift
 # returns previous shift for 1, 2 or 3
 ```
+
+### License
+Copyright © 2012 - 2014 Ruby Logic, released under the MIT license
