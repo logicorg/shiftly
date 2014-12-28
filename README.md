@@ -2,13 +2,23 @@
 
 Factory shift methods collection
 
-by [Ruby Logic](http://rubylogic.eu)
+[![Gem Version](https://badge.fury.io/rb/shiftly.svg)](http://badge.fury.io/rb/shiftly)
+
+by [RubyLogic, PL](http://rubylogic.eu)
 
 ## Usage
 
-There are available extensions for:
+Add it to your Gemfile with:
 
-### Time class
+```ruby
+gem 'shiftly'
+```
+
+Run the bundle command to install it.
+
+Then you have access to the following extensions.
+
+### Time class exts
 
 ```ruby
 Time.now.to_factory_date
@@ -30,7 +40,7 @@ Time.now.shift_end
 # returns shift end datetime
 ```
 
-### Fixnum class
+### Fixnum class exts
 
 ```ruby
 1.next_shift

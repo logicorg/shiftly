@@ -17,7 +17,7 @@
     <file path="/integer_ext.rb" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419717716673" ignored="false" />
     <file path="/fixnum_ext.rb" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419717650765" ignored="false" />
     <file path="/fixnum_ext_spec.rb" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419719748685" ignored="false" />
-    <file path="/README.md" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419722332128" ignored="false" />
+    <file path="/README.md" changelist="3b5793c2-5ba8-4418-9fa5-afc9f9140660" time="1419753260307" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="18" selection-start="581" selection-end="581" vertical-scroll-proportion="0.94755244">
+            <state line="6" column="17" selection-start="152" selection-end="152" vertical-scroll-proportion="0.15734266">
               <folding />
             </state>
           </provider>
@@ -528,7 +528,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="18" selection-start="581" selection-end="581" vertical-scroll-proportion="0.94755244">
+        <state line="6" column="17" selection-start="152" selection-end="152" vertical-scroll-proportion="0.15734266">
           <folding />
         </state>
       </provider>
