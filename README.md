@@ -28,19 +28,13 @@ Then you have access to the following extensions.
 ```ruby
 Time.now.to_factory_date
 # returns yesterday when it is before 6am and today otherwise
-```
 
-```ruby
 Time.now.shift
 # returns shift number for datetime
-```
 
-```ruby
 Time.now.shift_beg
 # returns shift beginning datetime
-```
 
-```ruby
 Time.now.shift_end
 # returns shift end datetime
 ```
@@ -50,9 +44,7 @@ Time.now.shift_end
 ```ruby
 1.next_shift
 # returns next shift for 1, 2 or 3
-```
 
-```ruby
 1.prev_shift
 # returns previous shift for 1, 2 or 3
 ```
