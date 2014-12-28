@@ -1,3 +1,5 @@
+require 'business_time'
+
 Time.class_eval do
 
   def shift
@@ -21,6 +23,6 @@ Time.class_eval do
   end
 
   def to_factory_date
-    self.hour < 6 ? self.to_date - 1.day : self.to_date
+    self.hour < 6 ? 1.business_day.before(self.to_date) : self.to_date
   end
 end

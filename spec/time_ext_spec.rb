@@ -2,9 +2,13 @@ require 'shiftly'
 require 'active_support/time'
 
 describe Time do
-  let(:date) { Date.today }
+  let(:date) { Date.new(2014, 12, 23) }
   let(:day_beg) { Time.new(date.year, date.month, date.day, 0, 0, 0) }
   let(:day_end) { Time.new(date.year, date.month, date.day, 23, 59, 59) }
+
+  let(:monday) { Date.new(2014, 12, 22) }
+  let(:monday_beg) { Time.new(monday.year, monday.month, monday.day, 0, 0, 0) }
+  let(:monday_end) { Time.new(monday.year, monday.month, monday.day, 23, 59, 59) }
 
   let(:shift1_beg) { Time.new(date.year, date.month, date.day, 6, 0, 0) }
   let(:shift1_mid) { Time.new(date.year, date.month, date.day, 11, 22, 33) }
@@ -23,6 +27,9 @@ describe Time do
     it { expect(shift3_end.to_factory_date).to eq date - 1.day }
     it { expect(shift1_beg.to_factory_date).to eq date }
     it { expect(day_end.to_factory_date).to eq date }
+
+    it { expect(monday_beg.to_factory_date).to eq monday - 3.days }
+    it { expect(monday_end.to_factory_date).to eq monday }
   end
 
   context 'shift' do
