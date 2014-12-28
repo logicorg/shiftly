@@ -1,0 +1,1 @@
+Shiftly::Config.load("#{Rails.root}/config/shiftly.yml")

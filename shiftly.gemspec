@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.description = 'Factory shift methods collection'
   s.license     = 'MIT'
 
-  s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,db,lib,rails_generators}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
   s.add_dependency 'business_time'
 

@@ -2,7 +2,6 @@
 
 [![Gem Version](https://badge.fury.io/rb/shiftly.svg)](http://badge.fury.io/rb/shiftly)
 [![Code Climate](https://codeclimate.com/github/logicorg/shiftly/badges/gpa.svg)](https://codeclimate.com/github/logicorg/shiftly)
-[![Build Status](https://travis-ci.org/logicorg/shiftly.svg)](https://travis-ci.org/logicorg/shiftly)
 
 Factory shift methods collection by [RubyLogic, PL](http://rubylogic.eu)
 
@@ -15,6 +14,12 @@ gem 'shiftly'
 ```
 
 Run the bundle command to install it.
+
+Run generator if needed with:
+
+```console
+rails generate shiftly:config
+```
 
 Then you have access to the following extensions.
 

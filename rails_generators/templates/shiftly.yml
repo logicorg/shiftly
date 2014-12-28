@@ -1,0 +1,4 @@
+shiftly:
+  day_start_hour: 6
+  shift_hours: 8
+  number_of_shifts: 3

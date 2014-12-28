@@ -15,6 +15,7 @@ RDoc::Task.new(:rdoc) do |rdoc|
 end
 
 
+task :default => :spec
 
 
 Bundler::GemHelper.install_tasks
