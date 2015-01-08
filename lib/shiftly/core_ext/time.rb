@@ -20,6 +20,6 @@ class Time
   end
 
   def to_factory_date
-    self.hour < Shiftly::Config.day_start_hour ? 1.business_day.before(self.to_date) : self.to_date
+    self.hour < Shiftly::Config.day_start_hour ? 1.business_day.before(self.to_date).to_date : self.to_date
   end
 end
